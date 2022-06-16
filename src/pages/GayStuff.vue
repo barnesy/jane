@@ -223,6 +223,51 @@
            </template>
          </Card>
 
+         <Card url="https://www.amazon.com/Yourself-Funny-Pride-T-Shirt-Black/dp/B0B1W6P836/ref=sxin_18_slsr_d_i_fsnewarrivals_fa_0_B0B1W6P836?content-id=amzn1.sym.e769720a-c228-4522-81e6-4c6e4f714a33%3Aamzn1.sym.e769720a-c228-4522-81e6-4c6e4f714a33&crid=19DO2ZZJG4Q8U&cv_ct_cx=bi+pride+shirt&keywords=bi+pride+shirt&pd_rd_i=B0B1W6P836&pd_rd_r=9bac8f2b-63f4-4be8-b11a-e8a794b64a5e&pd_rd_w=p7JRi&pd_rd_wg=Iiv9d&pf_rd_p=e769720a-c228-4522-81e6-4c6e4f714a33&pf_rd_r=RYP5VPK69K97XGAY4GJM&psc=1&qid=1655394713&sprefix=bi+%2Caps%2C83&sr=1-1-5f336f6b-ad4b-4879-9b6a-1e75311ea5dc">
+           <template #image>
+             <img src="https://m.media-amazon.com/images/I/51RWtImhwqL._AC_UL640_FMwebp_QL65_.jpg" />
+           </template>
+           <template>
+              shirt $20.76
+           </template>
+         </Card>
+
+         <Card url="https://www.amazon.com/design-Support-Respect-Belong-T-Shirt/dp/B09VXRKKSW/ref=sr_1_17?crid=19DO2ZZJG4Q8U&keywords=bi+pride+shirt&qid=1655394956&sprefix=bi+%2Caps%2C83&sr=8-17">
+           <template #image>
+             <img src="https://m.media-amazon.com/images/I/61lKnxlZpEL._AC_UL640_FMwebp_QL65_.jpg" />
+           </template>
+           <template>
+             shirt $15.99
+           </template>
+         </Card>
+
+                  <Card url="https://www.amazon.com/Bi-Pride-T-shirt-bisexual-shirts/dp/B07FQLPC5X/ref=sr_1_22?crid=19DO2ZZJG4Q8U&keywords=bi+pride+shirt&qid=1655394956&sprefix=bi+%2Caps%2C83&sr=8-22">
+           <template #image>
+             <img src="https://m.media-amazon.com/images/I/61nMqmBlGcL._AC_UL640_FMwebp_QL65_.jpg" />
+           </template>
+           <template>
+              shirt $18.99
+           </template>
+         </Card>
+
+                  <Card url="https://www.amazon.com/LGBT-Q-Gay-Proud-Ally-T-Shirt/dp/B096GY1TVD/ref=sr_1_4?crid=4DXLL2NKYAAM&keywords=pride+shirt&qid=1655395467&sprefix=pride+shirt%2Caps%2C84&sr=8-4">
+           <template #image>
+             <img src="https://m.media-amazon.com/images/I/61I1TFif4ML._AC_UL640_FMwebp_QL65_.jpg" />
+           </template>
+           <template>
+              shirt $19.99
+           </template>
+         </Card>
+
+                  <Card url="https://www.amazon.com/LGBT-Power-retro-Pride-T-Shirt/dp/B09XXM1X8H/ref=sr_1_8?crid=4DXLL2NKYAAM&keywords=pride+shirt&qid=1655395550&sprefix=pride+shirt%2Caps%2C84&sr=8-8">
+           <template #image>
+             <img src="https://m.media-amazon.com/images/I/61uB01HOyyL._AC_UL640_FMwebp_QL65_.jpg" />
+           </template>
+           <template>
+              shirt $17.99
+           </template>
+         </Card>
+
 
        </CardGroup>
       </template>

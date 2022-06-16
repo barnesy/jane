@@ -1,8 +1,8 @@
 <template>
   <Directory
-    class="narrow dark"
-    bgColor="var(--light-blue)"
-    bgImage="url('/brown-to-green.jpg')"
+    class="narrow"
+    bgColor="#bbeca7"
+    bgImage="url('/pink-to-green.jpg')"
   >
     <template #page-header>
       <Header class="v2">
