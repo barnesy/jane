@@ -28,13 +28,13 @@
             <img src="https://media.npr.org/assets/img/2017/09/14/gettyimages-10141026_slide-67be9fc1bca330b26debade87690b5e84286614d-s1600-c85.webp" />
            </template>
            <template>
-            my favorite animal 
+            my favorite animal
            </template>
          </Card>
 
          <Card url="https://www.tiktok.com/@iambarnesy/video/6963017995178249477?is_copy_url=1&is_from_webapp=v1">
            <template #image>
-             <g-image src="~/assets/my-ad.png" />
+
            </template>
            <template>
              my maximum ad
@@ -43,7 +43,7 @@
 
          <Card>
            <template #image>
-            <g-image src="~/assets/max.png" />
+
            </template>
            <template>
              this is me i am 8 years old
@@ -59,13 +59,13 @@
            </template>
          </Card>
 
-         
+
 
        </CardGroup>
 
 
       </template>
-    
+
     </PageSection>
 
   </Directory>

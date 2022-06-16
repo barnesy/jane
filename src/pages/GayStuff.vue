@@ -27,10 +27,10 @@
 
          <Card url="http://tiktok.com">
            <template #image>
-             <img src="https://cdn.shopify.com/s/files/1/0553/5370/4604/products/il_fullxfull.3683814943_ntwr_2048x.jpg?v=1643646112" />
+             <img src="https://www.amazon.com/UBGICIG-Accessories-Bracelet-Adjustable-Rainbow/dp/B09S33DMWG/ref=sr_1_1?crid=2ZE8OGN9NVNPM&keywords=gay+stuff&qid=1655307268&s=gift-cards&sprefix=gay+stuff%2Cgift-cards%2C64&sr=1-1" />
            </template>
            <template>
-              something gay
+              braclets
            </template>
          </Card>
 

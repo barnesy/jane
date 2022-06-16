@@ -2,12 +2,12 @@
   <Directory
     class="narrow dark"
     bgColor="var(--light-blue)"
-    bgImage="url('https://www.farmersalmanac.com/wp-content/uploads/2021/04/forget-me-not-flower-as309740666.jpeg')"
+    bgImage="url('https://images.squarespace-cdn.com/content/v1/528d0f42e4b0b3137dcda1ca/1525909647365-ZFU12BQUXL0LSGBP5GQZ/pride1%5B1%5D.png?format=2500w')"
   >
     <template #page-header>
       <Header class="v4">
         <template>
-          welcome to BE GAY.com
+          welcome to your gay future
 
         </template>
         <template #support>THESE THINGS ARE GAY!!!!</template>
@@ -25,18 +25,18 @@
 
       <template>
        <CardGroup>
-         <Card url="http://cnn.com">
+         <Card url="gay-memes">
            <template #image>
-             <iframe width="100%" height="315" src="https://www.youtube.com/embed/_RAIKG5x-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             <img src="https://cdn.memes.com/up/53658651627584715/i/1627643431117.png" />
            </template>
            <template>
-              something gay
+              gay memes
            </template>
          </Card>
 
          <Card url="http://tiktok.com">
            <template #image>
-             <img src="https://cdn.shopify.com/s/files/1/0553/5370/4604/products/il_fullxfull.3683814943_ntwr_2048x.jpg?v=1643646112" />
+             <img src="https://cdn.memes.com/up/53658651627584715/i/1627643431117.png" />
            </template>
            <template>
               something gay
