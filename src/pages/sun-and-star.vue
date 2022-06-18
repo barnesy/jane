@@ -7,7 +7,7 @@
     <template #page-header>
       <Header class="v2">
         <template>
-        sun & star
+        all about the creator 
         </template>
         <template #support></template>
       </Header>

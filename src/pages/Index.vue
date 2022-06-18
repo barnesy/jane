@@ -1,8 +1,8 @@
 <template>
   <Directory
-    class="narrow dark"
+    class="narrow"
     bgColor="var(--light-blue)"
-    bgImage="url('https://images.squarespace-cdn.com/content/v1/528d0f42e4b0b3137dcda1ca/1525909647365-ZFU12BQUXL0LSGBP5GQZ/pride1%5B1%5D.png?format=2500w')"
+    bgImage="url('https://www.nymetroparents.com/columnpic2/celebrate-pride-month-with-kids.jpg')"
   >
     <template #page-header>
       <Header class="v4">
