@@ -43,7 +43,7 @@
            </template>
          </Card>
 
-                  <Card url="gay-stuff">
+         <Card url="gay-stuff">
            <template #image>
              <img src="https://m.media-amazon.com/images/I/613wR4fq9bL._AC_UL640_FMwebp_QL65_.jpg" />
            </template>
@@ -52,7 +52,7 @@
            </template>
          </Card>
 
-                  <Card url="gay-love">
+         <Card url="gay-love">
            <template #image>
              <img src="https://i.pinimg.com/474x/bb/24/83/bb2483255132dc51f8e80a3d279433f7.jpg" />
            </template>
@@ -61,7 +61,7 @@
            </template>
          </Card>
 
-                           <Card url="gay-quotes">
+         <Card url="gay-quotes">
            <template #image>
              <img src="https://ideas.hallmark.com/wp-content/uploads/2022/04/ii_15473_1.jpg" />
            </template>
@@ -70,6 +70,14 @@
            </template>
          </Card>
 
+         <Card url="about-me">
+           <template #image>
+             <img src="https://ideas.hallmark.com/wp-content/uploads/2022/04/ii_15473_1.jpg" />
+           </template>
+           <template>
+             click to see more gay quotes 
+           </template>
+         </Card>
 
        </CardGroup>
       </template>

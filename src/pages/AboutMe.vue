@@ -88,28 +88,27 @@
 
         <Card url="">
            <template #image>
-             <img src="https://lh3.googleusercontent.com/lUb8MRVIz8eCkl-AnTQYzg3Vflg41PgXl1eASp8BS5TiDrA2nFzhoVt54WN6ByGIXBqA6hFA7jd0-S1S9POEtcHACI53NeBezteKGCVeObwXXPWXiw2BFTZ-USj1PJxuBc5cQvif0biiTL6MQ26yDQb4zF9DrEB1mDHOXm4RMgTSHuYYzTcoxMC57S6i9XsYSyRx7G2ETIgkFdDJMjDeuLBmfPBEfmDiIAdsyLlO3E6xuYwyyKZyBB7SdjpoH3-QsqsWwn-yQT78C0vfftiqS8z11N5j6ti-_Jcq7m4056Zu7OC_kL07RWsW7U0-SDy5HFI6y2R3YijIvcKwkmc1bm76Vo1cjHcDx_dW2fu4dxcljzqSPALktGa_krV4TTc8-sh6_1SpexqkB6tJDjEhDgkKcZpDkJ2pJdrvkroAl0XrP_oEwLlKquL1GvU2ywIZ69xYpYNQED7hVHHdrbUmDg13SGtaAPw39IeP7oKytViCL4NxDBX48-obhGR2zhhRiXhNiTjZGskBsO1TFsmFQlHCpE8i18_3GTC9RYM0ROPfa88WCXbL3LH_cfenwQYNt9Ix5fFskw9Ayi0GuuXxA7iUoS-BAeRgshV0GG15J08LYfoyoE1kd47ELkwrmKFZmD9tHkSDYlIRCPkD5Ip_GNfgaXDVFWL0Isb3SDWPyEHfVbBu7928R7TIlaqpU6m0S7tcFbU6pyaztHeNQzFrCjwWgpS3C6tVmLc_nSpfTJ7AOAGkB4HALpOVM9GM9w=w1420-h1894-no?authuser=0"/>
+             <img src="https://lh3.googleusercontent.com/s1qKqmGVXi-PrLSPP4ITzkvWNff83GFnZ-5eBmLFgys48ks1Kp4M45mkM_HHei_w548SwLWm7uFqWzA-aEQ0NuOSo0Gny_Yal3vmN8UTfVRppScrmvMkwEF7-lbmqfhf9HynVKumSuYARlAyPzSoPeEp2irwOCkoxf839vAhNuG5oSW_N7Vd-785XTUqygZAxPojMTju5dKCH6KTE7WO816YxZEqyTzOWROuzEcGtQ5DtmnrZrDgELRzwDg-PmZE9uoUnZVnA4Og9pEKukkGa6a8q1_mHPKO1ZlYEnhThnA_TaTysHHnAV2nvxekW2PCAbIyVa14dd59L-oxlLCQyPCRPRwti3OjnJ6RNDPdNtsPRoA3gEIXX2wNK2_l0beI40sU2ZfwQlXPh60d0eh4A_RC2eM46UMIknDRhBn0Vd3ZGypcZY9LCGt9BgWmE483KUCZHFZGsoNPa4hqL4Z2xIcik3Fy6BeeNfrXwQBn385rYCL0d1dZfSo5-Z2E4y7p2nj7TgULha2jl7NLDsmPmn6vLwor7jVDjyszUbOwv8N6zWeggPzOpNz_978cjCFNc8byYQ56nErMkwAL2us5BoMAiM-pvpcY1JMCVXpK2ZYyobSQfOKH9Ps1AQNN205UicAKwBYLtw592XySnr9hyAPFY6LEmUFTRd-ZE-8n7bIV7hHzMfJVux6Lc3YyrmRp44ZZ3VJn-F5YCvynwC0OdUo6shnN0HA0ZVBm0KjGvDhTGV4_bwJb5OQIuyLTtg=w1280-h720-no?authuser=0"/>
            </template>
            <template>
-           my dog
+           my girlfreind / bestfreind
            </template>
          </Card>
 
          <Card url="">
            <template #image>
-             <img src="https://lh3.googleusercontent.com/lUb8MRVIz8eCkl-AnTQYzg3Vflg41PgXl1eASp8BS5TiDrA2nFzhoVt54WN6ByGIXBqA6hFA7jd0-S1S9POEtcHACI53NeBezteKGCVeObwXXPWXiw2BFTZ-USj1PJxuBc5cQvif0biiTL6MQ26yDQb4zF9DrEB1mDHOXm4RMgTSHuYYzTcoxMC57S6i9XsYSyRx7G2ETIgkFdDJMjDeuLBmfPBEfmDiIAdsyLlO3E6xuYwyyKZyBB7SdjpoH3-QsqsWwn-yQT78C0vfftiqS8z11N5j6ti-_Jcq7m4056Zu7OC_kL07RWsW7U0-SDy5HFI6y2R3YijIvcKwkmc1bm76Vo1cjHcDx_dW2fu4dxcljzqSPALktGa_krV4TTc8-sh6_1SpexqkB6tJDjEhDgkKcZpDkJ2pJdrvkroAl0XrP_oEwLlKquL1GvU2ywIZ69xYpYNQED7hVHHdrbUmDg13SGtaAPw39IeP7oKytViCL4NxDBX48-obhGR2zhhRiXhNiTjZGskBsO1TFsmFQlHCpE8i18_3GTC9RYM0ROPfa88WCXbL3LH_cfenwQYNt9Ix5fFskw9Ayi0GuuXxA7iUoS-BAeRgshV0GG15J08LYfoyoE1kd47ELkwrmKFZmD9tHkSDYlIRCPkD5Ip_GNfgaXDVFWL0Isb3SDWPyEHfVbBu7928R7TIlaqpU6m0S7tcFbU6pyaztHeNQzFrCjwWgpS3C6tVmLc_nSpfTJ7AOAGkB4HALpOVM9GM9w=w1420-h1894-no?authuser=0"/>
+             <img src="https://lh3.googleusercontent.com/hWVcBSYug9ojSfdxg3HpGvD6LSw6SOm1bwg3J1srJNdE9ql7y4T80r27alA5fS4_RdbY3Qag8aWjxPG1XsNzcsLo8aB7Q5HkpozrlMDKFTjy7brWgK6oaPNIISoY6_yrkpLYyRzFFDFANq5WT03N9T1pw72h7U4eUvha-b8-uHwCkZqKSdy8-O3uR7Bi_nsOD9ZyYIbMyXfQnvkcZT929EgHvvie4yeWfOvncjqf9EN9pyqy36CnqOVzpMZra4HGnSBl5yKrYufuPP3t28BP8WPxwCAhIoLnn1dji_vOopsyAs69L4SXQxu2Wmuw-iVaLkh-MWR8hal9ayYgGlF-m2FDXhyuG4MqDrNHsLj15QqKnXS-Ob3SndNRYWFchA1HVEVz1Xn3NS5fsDny4Y0QT6t3dK2-tGLkQit4xpHot0DXzaMZHXJrlL39foCOJngwiUfcxqEbKrF6gDxTfL3RauiiURjp0vDQxLI3ZbXGv0uwRwXtmFAQHvERuVRSzAKT0PNaGUOuVGxERzoeNj38cj3G40aXRUfKYp5p7KzVCRekNCSvI4Q8Ke4A1zODzCcimVDXPUGhet3bVV0JcAd82JEByhGvaqeKfNA6SdbBSFGI_7Pw-TfovMtnit8T5GOaLCgU0CnwESBU66pgZQicc9b3fpI9O80ALTgqREZG_qcEivaTT75ZLgdtKjYon4904EkHMvCzu4KkqYpPQON4nOVUv9FYZqg4IkJEVGlrudsKNTbcJBpNUQVKiwipSQ=s1706-no?authuser=0"/>
            </template>
            <template>
-           my dog
+           my bestie haha 
            </template>
          </Card>
 
          <Card url="">
-           <template #image>
-             <img src="https://lh3.googleusercontent.com/lUb8MRVIz8eCkl-AnTQYzg3Vflg41PgXl1eASp8BS5TiDrA2nFzhoVt54WN6ByGIXBqA6hFA7jd0-S1S9POEtcHACI53NeBezteKGCVeObwXXPWXiw2BFTZ-USj1PJxuBc5cQvif0biiTL6MQ26yDQb4zF9DrEB1mDHOXm4RMgTSHuYYzTcoxMC57S6i9XsYSyRx7G2ETIgkFdDJMjDeuLBmfPBEfmDiIAdsyLlO3E6xuYwyyKZyBB7SdjpoH3-QsqsWwn-yQT78C0vfftiqS8z11N5j6ti-_Jcq7m4056Zu7OC_kL07RWsW7U0-SDy5HFI6y2R3YijIvcKwkmc1bm76Vo1cjHcDx_dW2fu4dxcljzqSPALktGa_krV4TTc8-sh6_1SpexqkB6tJDjEhDgkKcZpDkJ2pJdrvkroAl0XrP_oEwLlKquL1GvU2ywIZ69xYpYNQED7hVHHdrbUmDg13SGtaAPw39IeP7oKytViCL4NxDBX48-obhGR2zhhRiXhNiTjZGskBsO1TFsmFQlHCpE8i18_3GTC9RYM0ROPfa88WCXbL3LH_cfenwQYNt9Ix5fFskw9Ayi0GuuXxA7iUoS-BAeRgshV0GG15J08LYfoyoE1kd47ELkwrmKFZmD9tHkSDYlIRCPkD5Ip_GNfgaXDVFWL0Isb3SDWPyEHfVbBu7928R7TIlaqpU6m0S7tcFbU6pyaztHeNQzFrCjwWgpS3C6tVmLc_nSpfTJ7AOAGkB4HALpOVM9GM9w=w1420-h1894-no?authuser=0"/>
+           <template #image>""/>
            </template>
            <template>
-           my dog
+           my bestfreind haha 
            </template>
          </Card>
 
