@@ -75,7 +75,6 @@
            </template>
            <template>
               shirt $14.99
-           </template>
          </Card>
 
           <Card url="https://www.amazon.com/Matching-Bracelets-Memorial-Decorations-Bisexual/dp/B09Z2L2DJ9/ref=sr_1_17?crid=2LPH2MQ7HY5QA&keywords=gay+stuff&qid=1655387623&s=gift-cards&sprefix=gay+stuff%2Cgift-cards%2C49&sr=1-17">
